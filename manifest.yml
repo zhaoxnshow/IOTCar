@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: DriveCar
-  host: drivecar
+  name: zhaoxnshow-1479536343036
+  host: zhaoxnshow-1479536343036
   disk_quota: 1024M
